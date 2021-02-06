@@ -15,6 +15,6 @@ All prerequisites can be installed from requirements.txt file.
 
 After enetring the project directiry, run this command:
 
-'''
+```
 pip install -r requirements.txt
-'''
+```
